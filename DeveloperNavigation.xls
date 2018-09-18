@@ -1,0 +1,5 @@
+<table id="documentsTable">
+                <tbody><tr>
+                    <td colspan="6"><img id="waitAnimation" class="hideInXcode" src="../Resources/1282/Images/waitanimation.gif" alt="Loading..."></td>
+                </tr>
+            </tbody></table>
